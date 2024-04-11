@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraX</string>
+    <string name="about">About App</string>
+    <string name="app_phone">+254 713 946 234</string>
+    <string name="app_email">apps@symatechlabs.com</string>
+    <string name="website">www.symatechlabs.com</string>
+</resources>

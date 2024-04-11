@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.camera.view.PreviewView
+        android:id="@+id/previewView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/capturedPhoto"
+        android:layout_width="@dimen/size_80"
+        android:layout_height="@dimen/size_42"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="@dimen/size_22"
+        android:layout_marginBottom="@dimen/size_63"
+        android:layout_toLeftOf="@id/capture"
+        android:background="@drawable/captured_photo" />
+
+    <ImageView
+        android:id="@+id/capture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/size_42"
+        android:background="@drawable/ic_capture" />
+
+    <ImageView
+        android:id="@+id/toggleCamera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/size_22"
+        android:layout_marginBottom="@dimen/size_42"
+        android:layout_toRightOf="@id/capture"
+        android:background="@drawable/ic_change_camera" />
+
+    <TextView
+        android:id="@+id/about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:text="@string/about"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="@dimen/font_15"
+        android:layout_marginBottom="@dimen/size_10"
+
+        />
+
+</RelativeLayout>
