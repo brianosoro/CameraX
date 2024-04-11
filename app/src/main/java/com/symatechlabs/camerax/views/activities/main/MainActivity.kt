@@ -1,4 +1,4 @@
-package com.symatechlabs.camerax.views
+package com.symatechlabs.camerax.views.activities.main
 
 import android.os.Bundle
 import android.view.KeyEvent

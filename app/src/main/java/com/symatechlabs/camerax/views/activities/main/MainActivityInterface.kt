@@ -1,4 +1,4 @@
-package com.symatechlabs.camerax.views
+package com.symatechlabs.camerax.views.activities.main
 
 
 import com.symatechlabs.camerax.common.BaseMvcInterface

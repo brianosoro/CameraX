@@ -1,4 +1,4 @@
-package com.symatechlabs.camerax.views
+package com.symatechlabs.camerax.views.activities.main
 
 import android.Manifest
 import android.content.Context
@@ -8,7 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
-import com.symatechlabs.camerax.about.About
+import com.symatechlabs.camerax.views.activities.about.About
 import com.symatechlabs.camerax.databinding.MainActivityBinding
 import com.symatechlabs.camerax.utils.CameraUtils
 import com.symatechlabs.camerax.utils.Utilities

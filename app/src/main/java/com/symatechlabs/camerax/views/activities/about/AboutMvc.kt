@@ -1,4 +1,4 @@
-package com.symatechlabs.camerax.about
+package com.symatechlabs.camerax.views.activities.about
 
 import android.content.Context
 
