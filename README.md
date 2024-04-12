@@ -14,4 +14,4 @@ Simple Android [CameraX](https://developer.android.com/media/camera/camerax)  im
 
 # 4. Final Output
 
-https://www.youtube.com/watch?v=KsdO0iCyLjo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KsdO0iCyLjo/0.jpg)](https://www.youtube.com/watch?v=KsdO0iCyLjo)
