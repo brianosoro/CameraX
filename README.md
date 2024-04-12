@@ -11,3 +11,7 @@ Simple Android [CameraX](https://developer.android.com/media/camera/camerax)  im
 | ------------- | ------------- |
 |Kotlin	| The language |
 |Architecture |	MVC|
+
+# 4. Final Output
+
+https://www.youtube.com/watch?v=KsdO0iCyLjo
