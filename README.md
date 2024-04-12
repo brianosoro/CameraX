@@ -5,7 +5,7 @@
 # 2. What is CameraX
 Simple Android [CameraX](https://developer.android.com/media/camera/camerax)  implementation with some explainations.
 
-# 3. Interesting Things Used In The Pin Failed Project
+# 3. Interesting Things Used In The CameraX Project
 
 | Interesting Thing	| Thing In Detail |
 | ------------- | ------------- |
